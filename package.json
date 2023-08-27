@@ -1,0 +1,19 @@
+{
+  "name": "excel-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritika-rustagi/EXCEL-CLONE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritika-rustagi/EXCEL-CLONE/issues"
+  },
+  "homepage": "https://github.com/ritika-rustagi/EXCEL-CLONE#readme"
+}
